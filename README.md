@@ -33,8 +33,8 @@ To start the project you will need to install the following dependencies:
 https://docs.docker.com/engine/install/
 https://docs.docker.com/compose/install/
 
-Clone using ssh: `git clone git@gitlab.com:guicavicci/user-kotlin.git`
-Clone using https: `https://gitlab.com/guicavicci/user-kotlin.git`
+Clone using ssh: `git clone git@github.com:guilherme-cavichioli/user-kotlin.git`
+Clone using https: `https://github.com/guilherme-cavichioli/user-kotlin.git`
 
 
 Alter installation, run the following commands at the project root:
