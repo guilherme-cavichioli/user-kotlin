@@ -34,7 +34,7 @@ https://docs.docker.com/engine/install/
 https://docs.docker.com/compose/install/
 
 Clone using ssh: `git clone git@github.com:guilherme-cavichioli/user-kotlin.git`
-Clone using https: `https://github.com/guilherme-cavichioli/user-kotlin.git`
+Clone using https: `git clone https://github.com/guilherme-cavichioli/user-kotlin.git`
 
 
 Alter installation, run the following commands at the project root:
